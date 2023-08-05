@@ -15,8 +15,11 @@
 |-|-|-
 
 If a case that is not NOM or ACC appears without previous the cases marked, the case is specified through a tone:
-**Ascendent ̆** for **DAT/GEN**
-**Descendant ̯** for **ABL/VOC**
+
+**Ascendent- ̆**  for **DAT/GEN**
+
+**Descendant- ̯**  for **ABL/VOC**
+
 If the case is the second of the couple (ACC without NOM, GEN without DAT, and VOC without ABL), that case is marked by ʰ.
 >## Variations of the vowel *i* per case:
 |NOM|ACC|DAT|GEN|ABL|VOC
