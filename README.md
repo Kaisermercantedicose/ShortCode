@@ -10,7 +10,7 @@
 |**they**|*ɒ̈*|ɑ|ɒ|e̞|ø̞|ɤ̞
 ||*Standard pronouns*
 
-The sequence order of the cases is:
+>### The sequence order of the cases is:
 |NOM/ACC|DAT/GEN|ABL/VOC
 |-|-|-
 
