@@ -26,20 +26,31 @@ If the case is the second of the couple (ACC without NOM, GEN without DAT, and V
 |-|-|-|-|-|-
 |i|iʰ|ĭ|ĭʰ|i̯|i̯ʰ
 
+Each morpheme that is not a part of the root is represented by a phoneme.
+
 The interrogative pronoun is **x**, and the *NPP* (neutral personal pronoun) is o̞:
 
 **Whom** are you giving it **to?**
 
-ɮɪ̈**xo̞→**INTER.NPP = **to whom?**
+ɮɪ̈xo̞
+
+```ɮ      ɪ̈                 x       o̞```
+
+```give   1SG.NOM-3SG.ACC   INTER   NPP```
 
 To you!
+
 ɪ̆!
 
 The copula is **ɸ** :
 
-**Whose** is it?
+Whose is it?
 
-ɸe**xŏ̞ʰ→**INTER.NPP.GEN = **whose?**
+ɸexŏ̞ʰ
+
+```ɸ    e         x       ŏ̞ʰ```
+
+```be   3SG.NOM   INTER   NPP.GEN```
 
 It’s mine.
 
