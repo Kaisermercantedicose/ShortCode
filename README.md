@@ -14,7 +14,7 @@
 |NOM/ACC|DAT/GEN|ABL/VOC
 |-|-|-
 
-If a case that is not NOM or ACC appears without previous the cases marked, the case is specified through a tone:
+If a case couple that is not NOM/ACC appears without previous the cases marked, it is specified through a tone:
 
 **Ascendent- ̆**  for **DAT/GEN**
 
